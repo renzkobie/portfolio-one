@@ -7,6 +7,7 @@ import {
   Features,
   WhatGPT3,
   Header,
+  Below,
 } from "./containers";
 import { Cta, Brand, Navbar } from "./components";
 import "./App.css";
@@ -25,6 +26,7 @@ const App = () => {
       <Cta />
       <Blog />
       <Footer />
+      <Below />
     </div>
   );
 };

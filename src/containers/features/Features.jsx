@@ -9,11 +9,11 @@ const featureData = [
   },
   {
     title: "Become the tended active ",
-    text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.",
+    text: "This make this more active and satisfy in every way you can be more productive and satisfy of every person.",
   },
   {
     title: "Message or am nothing ",
-    text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.",
+    text: "This message will motivate you and can become more active, i can provide a success and more complying jobs",
   },
   {
     title: "Really boy law county ",

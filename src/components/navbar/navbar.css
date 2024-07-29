@@ -1,3 +1,8 @@
+.logo-text {
+  color: #fff;
+  font-size: 27px;
+}
+
 .gpt3__navbar {
   display: flex;
   justify-content: space-between;
