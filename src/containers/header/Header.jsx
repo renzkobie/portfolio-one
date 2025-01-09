@@ -2,22 +2,17 @@ import React from 'react';
 import './header.css';
 import people from '../../assets/people.png';
 import Lottie from 'lottie-react';
-import robot from '../../assets/developerrr.json';
+import robot from '../../assets/robot.json';
 
 const Header = () => {
   return (
     <div className='gpt3__header section__padding' id='home'>
       <div className='gpt3__header-content'>
-        <h1 className='gradient__text'>
-          I'm Renz Kobie.
-          <br /> A College Student.
-        </h1>
+        <h1 className='gradient__text'>Tech Revolution: The Future is Now</h1>
         <p>
-          Hello! I'm Renz, an aspiring web developer with a passion for creating
-          dynamic and responsive web applications. With a foundation in both
-          front-end and back-end development, I am dedicated to continuously
-          learning and expanding my skill set to stay updated with the latest
-          trends and technologies in the web development world.
+          The application of scientific knowledge to the practical aims of human
+          life or, as it is sometimes phrased, to the change and manipulation of
+          the human environment.
         </p>
         <div className='gpt3__header-content__input'>
           <input type='email' placeholder='Your Email Address' />
